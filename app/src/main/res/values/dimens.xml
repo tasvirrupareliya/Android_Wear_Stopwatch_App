@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_box">2dp</dimen>
+    <dimen name="button_width">120dp</dimen>
+    <dimen name="button_height">35dp</dimen>
+    <dimen name="top_margin">2dp</dimen>
+    <dimen name="button_text_size">10sp</dimen>
+    <dimen name="time_textview_size">18sp</dimen>
+</resources>
